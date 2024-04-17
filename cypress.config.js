@@ -6,7 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     experimentalSessionAndOrigin: true,
-    baseUrl: 'https://google.com',
+    baseUrl: 'https://demoqa.com',
     retries: 3,
     defaultCommandTimeout: 10000,
     pageLoadTimeout: 10000,
