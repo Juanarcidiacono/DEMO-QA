@@ -6,5 +6,4 @@ class Actions {
     
 }
 
-//export default Actions;
 module.exports = new Actions();
